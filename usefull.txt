@@ -1,0 +1,33 @@
+npx create-react-app appname
+
+
+npm i material-ui/core
+material ui icon
+
+
+
+*****npm init for backened
+
+now package.json ma
+script ma add aa
+
+"start": "node server.js"
+
+server.js entry point che atle  and hosting ma pn aa usefull atle
+
+
+
+type="module"  atle require evu use nai toh chale khali import j
+*****
+express framework for server
+and mongoose to connect to database
+
+
+
+********
+create clustor
+database user access ans create with username and password
+network access and allow all access
+got to clustor and connect go
+coonnect application and copy url
+'mongodb+srv://prit_savani:Pritsavani@cluster0.qgmvrtj.mongodb.net/tiktok?retryWrites=true&w=majority'//aa mongodb mathi malse
